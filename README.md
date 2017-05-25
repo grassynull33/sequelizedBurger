@@ -2,7 +2,7 @@
 Homework #15
 
 ## Live Link
- - www.example.com
+ - https://sequelized-eat-da-burger.herokuapp.com/
 
 ## Description
 1. Once you've loaded the app, any existing burgers will pop up, and you will be able to devour burgers of your choice.
